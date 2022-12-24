@@ -1,0 +1,17 @@
+{
+  "instances": [
+    {
+      "id": "5442",
+      "height": 9,
+      "length": 1,
+      "area": 9,
+      "eccen": 0.111,
+      "p_black": 1.0,
+      "p_and": 1.0,
+      "mean_tr": 9.0,
+      "blackpix": 9,
+      "blackand": 9,
+      "wb_trans": 1
+    }
+  ]
+}

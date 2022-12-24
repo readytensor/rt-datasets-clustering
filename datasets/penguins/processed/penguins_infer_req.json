@@ -1,0 +1,11 @@
+{
+  "instances": [
+    {
+      "id": "0",
+      "bill_length_mm": 50.9,
+      "bill_depth_mm": 19.1,
+      "flipper_length_mm": 196.0,
+      "body_mass_g": 3550.0
+    }
+  ]
+}

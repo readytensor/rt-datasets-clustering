@@ -1,0 +1,39 @@
+{
+  "instances": [
+    {
+      "Id": "6057",
+      "Vectorial velocity of left hand (x coordinate)": 0.02024839,
+      "Vectorial velocity of left hand (y coordinate)": 0.01389438,
+      "Vectorial velocity of left hand (z coordinate)": 0.00887481,
+      "Vectorial velocity of right hand (x coordinate)": 0.0014322,
+      "Vectorial velocity of right hand (y coordinate)": 0.01541798,
+      "Vectorial velocity of right hand (z coordinate)": 0.00324939,
+      "Vectorial velocity of left wrist (x coordinate)": 0.04061052,
+      "Vectorial velocity of left wrist (y coordinate)": 0.01821645,
+      "Vectorial velocity of left wrist (z coordinate)": 0.04648365,
+      "Vectorial velocity of right wrist (x coordinate)": 0.00044326,
+      "Vectorial velocity of right wrist (y coordinate)": 0.02004983,
+      "Vectorial velocity of right wrist (z coordinate)": 0.02066042,
+      "Vectorial acceleration of left hand (x coordinate)": 0.00200782,
+      "Vectorial acceleration of left hand (y coordinate)": 8.596e-05,
+      "Vectorial acceleration of left hand (z coordinate)": -0.00258083,
+      "Vectorial acceleration of right hand (x coordinate)": -0.003344,
+      "Vectorial acceleration of right hand (y coordinate)": 0.00067187,
+      "Vectorial acceleration of right hand (z coordinate)": -0.00124888,
+      "Vectorial acceleration of left wrist (x coordinate)": 0.00080861,
+      "Vectorial acceleration of left wrist (y coordinate)": 0.00079156,
+      "Vectorial acceleration of left wrist (z coordinate)": -0.00347893,
+      "Vectorial acceleration of right wrist (x coordinate)": -0.00146779,
+      "Vectorial acceleration of right wrist (y coordinate)": -5.998e-05,
+      "Vectorial acceleration of right wrist (z coordinate)": -0.00019355,
+      "Scalar velocity of left hand": 0.02611156,
+      "Scalar velocity of right hand": 0.01582162,
+      "Scalar velocity of left wrist": 0.06435669,
+      "Scalar velocity of right wrist": 0.02879314,
+      "Scalar acceleration of left hand": 0.003271,
+      "Scalar acceleration of right hand": 0.00363227,
+      "Scalar acceleration of left wrist": 0.00365833,
+      "Scalar acceleration of right wrist": 0.00148171
+    }
+  ]
+}

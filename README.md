@@ -9,6 +9,7 @@ The `datasets` folder contains the main data files and the schema files for all 
   - The CSV file with name "<dataset_name>.csv" is the main data used for the clustering analysis.
   - "\_test_key.csv" contains the known targets for the data. These targets are used for extrinsic validation using metrics such as purity and adjusted mutual information.
   - The JSON file with suffix "\_schema.json" is the schema file for the corresponding dataset.
+  - The JSON file with the suffix "\_infer_req.json" contains a sample JSON object with the data to make an inference request to the _optional_ /infer endpoint.
 - The Jupyter notebook file within each dataset folder is used to convert the raw data file(s) in `raw` folder into the processed form in `processed` folder.
 - The folder `schema_cfg` contains a csv which is needed by the schema generation script (described below) .
 
