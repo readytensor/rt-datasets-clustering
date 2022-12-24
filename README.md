@@ -111,9 +111,11 @@ https://archive.ics.uci.edu/ml/datasets/iris
 
 UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
----## Landsat Satellite
+---
 
-#### Alias (in scorecards): landsat_satellite
+## Landsat Satellite
+
+#### Alias (in scorecards): landsat_satellite2
 
 #### Domain / Industry: Space / Geospatial Technology
 
@@ -155,7 +157,7 @@ UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: Uni
 
 ## Page Blocks Classification
 
-#### Alias (in scorecards): page_blocks
+#### Alias (in scorecards): page_blocks2
 
 #### Domain / Industry: Information / Digital Media
 
@@ -293,7 +295,7 @@ Synthetically generated data
 
 ## Vehicle Silhouettes
 
-#### Alias (in scorecards): vehicle_silhouettes
+#### Alias (in scorecards): vehicle_silhouettes2
 
 #### Domain / Industry: Automotive
 
