@@ -1,0 +1,26 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "id",
+      "inputFields": [
+        {
+          "fieldName": "bill_length_mm"
+        },
+        {
+          "fieldName": "bill_depth_mm"
+        },
+        {
+          "fieldName": "flipper_length_mm"
+        },
+        {
+          "fieldName": "body_mass_g"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 3
+  }
+}

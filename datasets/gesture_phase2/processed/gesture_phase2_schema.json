@@ -1,0 +1,110 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "Id",
+      "inputFields": [
+        {
+          "fieldName": "Vectorial velocity of left hand (x coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of left hand (y coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of left hand (z coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of right hand (x coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of right hand (y coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of right hand (z coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of left wrist (x coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of left wrist (y coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of left wrist (z coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of right wrist (x coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of right wrist (y coordinate)"
+        },
+        {
+          "fieldName": "Vectorial velocity of right wrist (z coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of left hand (x coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of left hand (y coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of left hand (z coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of right hand (x coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of right hand (y coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of right hand (z coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of left wrist (x coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of left wrist (y coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of left wrist (z coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of right wrist (x coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of right wrist (y coordinate)"
+        },
+        {
+          "fieldName": "Vectorial acceleration of right wrist (z coordinate)"
+        },
+        {
+          "fieldName": "Scalar velocity of left hand"
+        },
+        {
+          "fieldName": "Scalar velocity of right hand"
+        },
+        {
+          "fieldName": "Scalar velocity of left wrist"
+        },
+        {
+          "fieldName": "Scalar velocity of right wrist"
+        },
+        {
+          "fieldName": "Scalar acceleration of left hand"
+        },
+        {
+          "fieldName": "Scalar acceleration of right hand"
+        },
+        {
+          "fieldName": "Scalar acceleration of left wrist"
+        },
+        {
+          "fieldName": "Scalar acceleration of right wrist"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 5
+  }
+}

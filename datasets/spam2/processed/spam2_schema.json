@@ -1,0 +1,185 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "id",
+      "inputFields": [
+        {
+          "fieldName": "word_freq_make"
+        },
+        {
+          "fieldName": "word_freq_address"
+        },
+        {
+          "fieldName": "word_freq_all"
+        },
+        {
+          "fieldName": "word_freq_3d"
+        },
+        {
+          "fieldName": "word_freq_our"
+        },
+        {
+          "fieldName": "word_freq_over"
+        },
+        {
+          "fieldName": "word_freq_remove"
+        },
+        {
+          "fieldName": "word_freq_internet"
+        },
+        {
+          "fieldName": "word_freq_order"
+        },
+        {
+          "fieldName": "word_freq_mail"
+        },
+        {
+          "fieldName": "word_freq_receive"
+        },
+        {
+          "fieldName": "word_freq_will"
+        },
+        {
+          "fieldName": "word_freq_people"
+        },
+        {
+          "fieldName": "word_freq_report"
+        },
+        {
+          "fieldName": "word_freq_addresses"
+        },
+        {
+          "fieldName": "word_freq_free"
+        },
+        {
+          "fieldName": "word_freq_business"
+        },
+        {
+          "fieldName": "word_freq_email"
+        },
+        {
+          "fieldName": "word_freq_you"
+        },
+        {
+          "fieldName": "word_freq_credit"
+        },
+        {
+          "fieldName": "word_freq_your"
+        },
+        {
+          "fieldName": "word_freq_font"
+        },
+        {
+          "fieldName": "word_freq_000"
+        },
+        {
+          "fieldName": "word_freq_money"
+        },
+        {
+          "fieldName": "word_freq_hp"
+        },
+        {
+          "fieldName": "word_freq_hpl"
+        },
+        {
+          "fieldName": "word_freq_george"
+        },
+        {
+          "fieldName": "word_freq_650"
+        },
+        {
+          "fieldName": "word_freq_lab"
+        },
+        {
+          "fieldName": "word_freq_labs"
+        },
+        {
+          "fieldName": "word_freq_telnet"
+        },
+        {
+          "fieldName": "word_freq_857"
+        },
+        {
+          "fieldName": "word_freq_data"
+        },
+        {
+          "fieldName": "word_freq_415"
+        },
+        {
+          "fieldName": "word_freq_85"
+        },
+        {
+          "fieldName": "word_freq_technology"
+        },
+        {
+          "fieldName": "word_freq_1999"
+        },
+        {
+          "fieldName": "word_freq_parts"
+        },
+        {
+          "fieldName": "word_freq_pm"
+        },
+        {
+          "fieldName": "word_freq_direct"
+        },
+        {
+          "fieldName": "word_freq_cs"
+        },
+        {
+          "fieldName": "word_freq_meeting"
+        },
+        {
+          "fieldName": "word_freq_original"
+        },
+        {
+          "fieldName": "word_freq_project"
+        },
+        {
+          "fieldName": "word_freq_re"
+        },
+        {
+          "fieldName": "word_freq_edu"
+        },
+        {
+          "fieldName": "word_freq_table"
+        },
+        {
+          "fieldName": "word_freq_conference"
+        },
+        {
+          "fieldName": "char_freq_%3B"
+        },
+        {
+          "fieldName": "char_freq_%28"
+        },
+        {
+          "fieldName": "char_freq_%5B"
+        },
+        {
+          "fieldName": "char_freq_%21"
+        },
+        {
+          "fieldName": "char_freq_%24"
+        },
+        {
+          "fieldName": "char_freq_%23"
+        },
+        {
+          "fieldName": "capital_run_length_average"
+        },
+        {
+          "fieldName": "capital_run_length_longest"
+        },
+        {
+          "fieldName": "capital_run_length_total"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 2
+  }
+}

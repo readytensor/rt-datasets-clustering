@@ -1,0 +1,95 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "id",
+      "inputFields": [
+        {
+          "fieldName": "V1"
+        },
+        {
+          "fieldName": "V2"
+        },
+        {
+          "fieldName": "V3"
+        },
+        {
+          "fieldName": "V4"
+        },
+        {
+          "fieldName": "V5"
+        },
+        {
+          "fieldName": "V6"
+        },
+        {
+          "fieldName": "V7"
+        },
+        {
+          "fieldName": "V8"
+        },
+        {
+          "fieldName": "V9"
+        },
+        {
+          "fieldName": "V10"
+        },
+        {
+          "fieldName": "V11"
+        },
+        {
+          "fieldName": "V12"
+        },
+        {
+          "fieldName": "V13"
+        },
+        {
+          "fieldName": "V14"
+        },
+        {
+          "fieldName": "V15"
+        },
+        {
+          "fieldName": "V16"
+        },
+        {
+          "fieldName": "V17"
+        },
+        {
+          "fieldName": "V18"
+        },
+        {
+          "fieldName": "V19"
+        },
+        {
+          "fieldName": "V20"
+        },
+        {
+          "fieldName": "V21"
+        },
+        {
+          "fieldName": "V22"
+        },
+        {
+          "fieldName": "V23"
+        },
+        {
+          "fieldName": "V24"
+        },
+        {
+          "fieldName": "V25"
+        },
+        {
+          "fieldName": "V26"
+        },
+        {
+          "fieldName": "V27"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 7
+  }
+}

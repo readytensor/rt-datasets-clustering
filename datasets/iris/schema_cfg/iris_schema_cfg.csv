@@ -1,0 +1,6 @@
+field_num,field_name,data_type,field_use_type
+1,id,TEXT,ID
+2,sepal_length,NUMERIC,INPUT
+3,sepal_width,NUMERIC,INPUT
+4,petal_length,NUMERIC,INPUT
+5,petal_width,NUMERIC,INPUT

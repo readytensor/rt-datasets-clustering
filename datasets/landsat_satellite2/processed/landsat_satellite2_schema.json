@@ -1,0 +1,122 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "id",
+      "inputFields": [
+        {
+          "fieldName": "v_0"
+        },
+        {
+          "fieldName": "v_1"
+        },
+        {
+          "fieldName": "v_2"
+        },
+        {
+          "fieldName": "v_3"
+        },
+        {
+          "fieldName": "v_4"
+        },
+        {
+          "fieldName": "v_5"
+        },
+        {
+          "fieldName": "v_6"
+        },
+        {
+          "fieldName": "v_7"
+        },
+        {
+          "fieldName": "v_8"
+        },
+        {
+          "fieldName": "v_9"
+        },
+        {
+          "fieldName": "v_10"
+        },
+        {
+          "fieldName": "v_11"
+        },
+        {
+          "fieldName": "v_12"
+        },
+        {
+          "fieldName": "v_13"
+        },
+        {
+          "fieldName": "v_14"
+        },
+        {
+          "fieldName": "v_15"
+        },
+        {
+          "fieldName": "v_16"
+        },
+        {
+          "fieldName": "v_17"
+        },
+        {
+          "fieldName": "v_18"
+        },
+        {
+          "fieldName": "v_19"
+        },
+        {
+          "fieldName": "v_20"
+        },
+        {
+          "fieldName": "v_21"
+        },
+        {
+          "fieldName": "v_22"
+        },
+        {
+          "fieldName": "v_23"
+        },
+        {
+          "fieldName": "v_24"
+        },
+        {
+          "fieldName": "v_25"
+        },
+        {
+          "fieldName": "v_26"
+        },
+        {
+          "fieldName": "v_27"
+        },
+        {
+          "fieldName": "v_28"
+        },
+        {
+          "fieldName": "v_29"
+        },
+        {
+          "fieldName": "v_30"
+        },
+        {
+          "fieldName": "v_31"
+        },
+        {
+          "fieldName": "v_32"
+        },
+        {
+          "fieldName": "v_33"
+        },
+        {
+          "fieldName": "v_34"
+        },
+        {
+          "fieldName": "v_35"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 6
+  }
+}

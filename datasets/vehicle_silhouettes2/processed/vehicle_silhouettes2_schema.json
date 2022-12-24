@@ -1,0 +1,68 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "ID",
+      "inputFields": [
+        {
+          "fieldName": "COMPACTNESS"
+        },
+        {
+          "fieldName": "CIRCULARITY"
+        },
+        {
+          "fieldName": "DISTANCE CIRCULARITY"
+        },
+        {
+          "fieldName": "RADIUS RATIO"
+        },
+        {
+          "fieldName": "PR.AXIS ASPECT RATIO"
+        },
+        {
+          "fieldName": "MAX.LENGTH ASPECT RATIO"
+        },
+        {
+          "fieldName": "SCATTER RATIO"
+        },
+        {
+          "fieldName": "ELONGATEDNESS"
+        },
+        {
+          "fieldName": "PR.AXIS RECTANGULARITY"
+        },
+        {
+          "fieldName": "MAX.LENGTH RECTANGULARITY"
+        },
+        {
+          "fieldName": "SCALED VARIANCE ALONG MAJOR AXIS"
+        },
+        {
+          "fieldName": "SCALED VARIANCE ALONG MINOR AXIS"
+        },
+        {
+          "fieldName": "SCALED RADIUS OF GYRATION"
+        },
+        {
+          "fieldName": "SKEWNESS ABOUT MAJOR AXIS"
+        },
+        {
+          "fieldName": "SKEWNESS ABOUT MINOR AXIS"
+        },
+        {
+          "fieldName": "KURTOSIS ABOUT MAJOR AXIS"
+        },
+        {
+          "fieldName": "KURTOSIS ABOUT MINOR AXIS"
+        },
+        {
+          "fieldName": "HOLLOWS RATIO"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 4
+  }
+}

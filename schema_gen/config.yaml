@@ -1,0 +1,48 @@
+model_categories:
+  clustering_base:
+    data_types:
+      string: TEXT
+      categorical: CATEGORICAL
+      numeric: NUMERIC
+
+    field_use_types:
+      id: ID
+      input: INPUT
+      target: TARGET
+
+    schemaFields:
+      fieldName: field_name
+      dataType: data_type
+      fieldUseType: field_use_type
+
+    datasets:
+      concentric_circles:
+        fname: concentric_circles_schema_cfg.csv
+        numClusters: 2
+      gesture_phase2:
+        fname: gesture_phase2_schema_cfg.csv
+        numClusters: 5
+      iris:
+        fname: iris_schema_cfg.csv
+        numClusters: 3
+      landsat_satellite2:
+        fname: landsat_satellite2_schema_cfg.csv
+        numClusters: 6
+      page_blocks2:
+        fname: page_blocks2_schema_cfg.csv
+        numClusters: 5
+      penguins:
+        fname: penguins_schema_cfg.csv
+        numClusters: 3
+      spam2:
+        fname: spam2_schema_cfg.csv
+        numClusters: 2
+      steel_plate_fault2:
+        fname: steel_plate_fault2_schema_cfg.csv
+        numClusters: 7
+      unequal_variance_blobs:
+        fname: unequal_variance_blobs_schema_cfg.csv
+        numClusters: 8
+      vehicle_silhouettes2:
+        fname: vehicle_silhouettes2_schema_cfg.csv
+        numClusters: 4

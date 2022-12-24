@@ -1,0 +1,6 @@
+field_num,field_name,data_type,field_use_type
+1,id,TEXT,ID
+2,bill_length_mm,NUMERIC,INPUT
+3,bill_depth_mm,NUMERIC,INPUT
+4,flipper_length_mm,NUMERIC,INPUT
+5,body_mass_g,NUMERIC,INPUT

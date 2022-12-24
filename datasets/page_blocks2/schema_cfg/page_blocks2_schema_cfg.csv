@@ -1,0 +1,12 @@
+field_num,field_name,data_type,field_use_type
+1,id,TEXT,ID
+2,height,NUMERIC,INPUT
+3,length,NUMERIC,INPUT
+4,area,NUMERIC,INPUT
+5,eccen,NUMERIC,INPUT
+6,p_black,NUMERIC,INPUT
+7,p_and,NUMERIC,INPUT
+8,mean_tr,NUMERIC,INPUT
+9,blackpix,NUMERIC,INPUT
+10,blackand,NUMERIC,INPUT
+11,wb_trans,NUMERIC,INPUT

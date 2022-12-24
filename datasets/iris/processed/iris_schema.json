@@ -1,0 +1,26 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "id",
+      "inputFields": [
+        {
+          "fieldName": "sepal_length"
+        },
+        {
+          "fieldName": "sepal_width"
+        },
+        {
+          "fieldName": "petal_length"
+        },
+        {
+          "fieldName": "petal_width"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 3
+  }
+}

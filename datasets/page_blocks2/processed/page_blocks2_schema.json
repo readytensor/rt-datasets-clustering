@@ -1,0 +1,44 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "id",
+      "inputFields": [
+        {
+          "fieldName": "height"
+        },
+        {
+          "fieldName": "length"
+        },
+        {
+          "fieldName": "area"
+        },
+        {
+          "fieldName": "eccen"
+        },
+        {
+          "fieldName": "p_black"
+        },
+        {
+          "fieldName": "p_and"
+        },
+        {
+          "fieldName": "mean_tr"
+        },
+        {
+          "fieldName": "blackpix"
+        },
+        {
+          "fieldName": "blackand"
+        },
+        {
+          "fieldName": "wb_trans"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 5
+  }
+}

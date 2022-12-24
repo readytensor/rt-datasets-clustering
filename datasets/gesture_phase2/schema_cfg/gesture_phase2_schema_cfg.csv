@@ -1,0 +1,34 @@
+field_num,field_name,data_type,field_use_type
+1,Id,TEXT,ID
+2,Vectorial velocity of left hand (x coordinate),NUMERIC,INPUT
+3,Vectorial velocity of left hand (y coordinate),NUMERIC,INPUT
+4,Vectorial velocity of left hand (z coordinate),NUMERIC,INPUT
+5,Vectorial velocity of right hand (x coordinate),NUMERIC,INPUT
+6,Vectorial velocity of right hand (y coordinate),NUMERIC,INPUT
+7,Vectorial velocity of right hand (z coordinate),NUMERIC,INPUT
+8,Vectorial velocity of left wrist (x coordinate),NUMERIC,INPUT
+9,Vectorial velocity of left wrist (y coordinate),NUMERIC,INPUT
+10,Vectorial velocity of left wrist (z coordinate),NUMERIC,INPUT
+11,Vectorial velocity of right wrist (x coordinate),NUMERIC,INPUT
+12,Vectorial velocity of right wrist (y coordinate),NUMERIC,INPUT
+13,Vectorial velocity of right wrist (z coordinate),NUMERIC,INPUT
+14,Vectorial acceleration of left hand (x coordinate),NUMERIC,INPUT
+15,Vectorial acceleration of left hand (y coordinate),NUMERIC,INPUT
+16,Vectorial acceleration of left hand (z coordinate),NUMERIC,INPUT
+17,Vectorial acceleration of right hand (x coordinate),NUMERIC,INPUT
+18,Vectorial acceleration of right hand (y coordinate),NUMERIC,INPUT
+19,Vectorial acceleration of right hand (z coordinate),NUMERIC,INPUT
+20,Vectorial acceleration of left wrist (x coordinate),NUMERIC,INPUT
+21,Vectorial acceleration of left wrist (y coordinate),NUMERIC,INPUT
+22,Vectorial acceleration of left wrist (z coordinate),NUMERIC,INPUT
+23,Vectorial acceleration of right wrist (x coordinate),NUMERIC,INPUT
+24,Vectorial acceleration of right wrist (y coordinate),NUMERIC,INPUT
+25,Vectorial acceleration of right wrist (z coordinate),NUMERIC,INPUT
+26,Scalar velocity of left hand,NUMERIC,INPUT
+27,Scalar velocity of right hand,NUMERIC,INPUT
+28,Scalar velocity of left wrist,NUMERIC,INPUT
+29,Scalar velocity of right wrist,NUMERIC,INPUT
+30,Scalar acceleration of left hand,NUMERIC,INPUT
+31,Scalar acceleration of right hand,NUMERIC,INPUT
+32,Scalar acceleration of left wrist,NUMERIC,INPUT
+33,Scalar acceleration of right wrist,NUMERIC,INPUT

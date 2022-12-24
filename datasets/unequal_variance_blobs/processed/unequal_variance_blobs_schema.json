@@ -1,0 +1,38 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "id",
+      "inputFields": [
+        {
+          "fieldName": "x1"
+        },
+        {
+          "fieldName": "x2"
+        },
+        {
+          "fieldName": "x3"
+        },
+        {
+          "fieldName": "x4"
+        },
+        {
+          "fieldName": "x5"
+        },
+        {
+          "fieldName": "x6"
+        },
+        {
+          "fieldName": "x7"
+        },
+        {
+          "fieldName": "x8"
+        }
+      ]
+    }
+  },
+  "datasetSpecs": {
+    "suggestedNumClusters": 8
+  }
+}
