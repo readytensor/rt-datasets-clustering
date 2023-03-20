@@ -29,7 +29,7 @@ The following is the list of datasets along with a brief description for each an
 
 #### Description
 
-This dataset is synthetically generated. Two clusters are created which are concentric circles (bands) with some Gaussian noise. The goal is to present data with non-Gaussian clusters and that is not linearly separable. See plotted data:
+This dataset is synthetically generated. Two clusters are created which are concentric circles (bands) with some Gaussian noise. The goal is to present data with non-Gaussian clusters and that is not linearly separable. See generated data:
 
 ![concentric circles](datasets/concentric_circles/processed/concentric_circles.png)
 
@@ -282,7 +282,9 @@ UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: Uni
 
 #### Description
 
-This dataset is synthetically generated. Eight Gaussian clusters are created with unequal variances and sample sizes per cluster.
+This dataset is synthetically generated. Eight Gaussian clusters are created with unequal variances and sample sizes per cluster. See generated data, reduced to 2D using T-SNE for visualization:
+
+![unequal variance blobs](datasets/unequal_variance_blobs/processed/unequal_variance_blobs.png)
 
 #### Dataset characteristics
 
