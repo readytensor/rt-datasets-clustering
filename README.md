@@ -31,7 +31,7 @@ The following is the list of datasets along with a brief description for each an
 
 This dataset is synthetically generated. Two clusters are created which are concentric circles (bands) with some Gaussian noise. The goal is to present data with non-Gaussian clusters and that is not linearly separable. See plotted data:
 
-[concentric circles](datasets/concentric_circles/processed/concentric_circles.png)
+![concentric circles](datasets/concentric_circles/processed/concentric_circles.png)
 
 #### Dataset characteristics
 
